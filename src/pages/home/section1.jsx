@@ -8,9 +8,9 @@ const Section1 = () => {
     return(
         <div className="section1" >
             <Navbar />
-            <div className="relative top-2/3 text-white ml-5 ">
+            <div className="relative top-2/3 lg:top-2/4 text-white ml-5 md:ml-14 md:mt-10 lg:mt-20">
                 <h3 className="font-normal">RECENT MISSION</h3>
-                <h1 className="font-bold text-3xl tracking-tighter">USSF- 44 MISSION</h1>
+                <h1 className="font-semibold text-3xl md:text-5xl tracking-tighter">USSF- 44 MISSION</h1>
                 <CustonButton > REWATCH</CustonButton>
             </div>
         </div>
