@@ -1,0 +1,8 @@
+.section1{
+    background-image: url("https://www.spacex.com/static/images/backgrounds-2022/ussf-44/post-launch/Homepage_Desktop.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    font-family: sans-serif;
+}
