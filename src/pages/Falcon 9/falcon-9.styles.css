@@ -1,0 +1,8 @@
+.section-1{
+    background-image: url("https://www.spacex.com/static/images/backgrounds/f9_feature.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    font-family: sans-serif;
+}
