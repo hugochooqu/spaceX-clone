@@ -1,4 +1,5 @@
 import React from "react";
+import Footer from "../../components/footer/footer";
 import Navbar from "../../components/navbar/navbar";
 import "./falcon-9.styles.css";
 import Falcon9Tabs from "./falcon9tab";
@@ -36,6 +37,7 @@ const Falcon9 = () =>{
                 </div>
                 
             </div>
+            <Footer />
             
             
         </div>

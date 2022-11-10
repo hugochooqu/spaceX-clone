@@ -1,4 +1,5 @@
 import React from "react";
+import Footer from "../../components/footer/footer";
 import Navbar from "../../components/navbar/navbar";
 import "./falcon-heavy.styles.css"
 
@@ -17,6 +18,7 @@ const FalconHeavy =()=> {
                     </div>
 
                 </div>
+                <Footer />
             </div>
     )
 }
